@@ -8,7 +8,7 @@ A continuación se presentarán los resultados obtenidos en un rango de (-30,-20
 Donde la forma numérica se obtiene por la sumatoria de (x^k/k!)
 
 # Resultados 
-Se muestra en color rojo, los valores obtenidos de forma numérica y en color azul, los valores obtenidos a partir de la función *exp*.
+Se muestra en color rojo, los valores obtenidos de forma numérica y en color azul, los valores obtenidos a partir de la función *exp*. En el eje X se muestra el rango utilizado y en el eje Y, los valores de la exponencial.
 
 ![Alt text](https://raw.githubusercontent.com/cpsolano/MCOC-Proyecto-0/master/figure_1.png)
     Se puede observar en este rango que los valores obtenidos son distintos con una diferencia a nivel decimal notoria. Esto se debe justamente a la aproximación que hace la consola al ser tantos decimales.
